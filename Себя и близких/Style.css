@@ -1,0 +1,85 @@
+body {
+    background: #e4e4e4;
+}
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 4;
+}
+.logo {
+    width: 35px;
+    height: auto;
+}
+.pod {
+    display: flex;
+    color: #ffffff;
+    text-align: center;
+    background:#4A607A;
+    padding-top: 82px;
+    width: 90%;
+    margin: 0 auto;
+    font-size:40px;
+    height: 400px;
+    justify-content: space-around;
+}
+.who {
+    font-size: 20px;
+    padding-top: 50px;
+    color: #0D1C41;
+    text-align: center;
+    background:white;
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.who h1 {
+    padding-bottom: 50px;
+}
+
+.who p {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: justify;
+}
+.who li {
+    text-align: left;
+}
+.tuk {
+    text-align: left;
+    font-size: 14px;
+}
+.titop {
+    width: 615px;
+    margin: 0 auto;
+}
+.oil {
+    text-align: left;
+    font-size: 14px;
+}
+.join {
+    text-align: left;
+    font-size: 14px;
+    color: #939CA6;
+    width: 250px;
+}
+.yop {
+    margin-top:40px;
+}
+.pod a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.pod a:hover {
+    color: #DDD0A4;
+}
+.vorg {
+    text-align: left;
+    font-size: 14px;
+    color: #939CA6;
+}
+.laf { 
+    color: #fff;
+    font-size: 18px;
+    margin-top: 30px;
+}

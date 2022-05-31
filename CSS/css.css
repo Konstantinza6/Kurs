@@ -1,0 +1,277 @@
+body {
+    background: #e9e9e9;
+}
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+.card {
+    box-shadow: 1px 1px 5px rgba(221, 221, 221, 1);
+    transition: all 300ms;
+    border-radius: 30px;
+}
+
+.text {
+    font-size:40px;
+    background:white;
+    padding-top: 200px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.topik {
+    color: #0D1C41;
+    text-align: center;
+    background:white;
+    padding-top: 60px;
+    width: 90%;
+    margin: 0 auto;
+    font-size:40px;
+}
+.grupp1{
+    background:white;
+    padding-top: 82px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.grupp2 {   
+    background:white;
+    padding-top: 25px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.grupp3 {
+    background:white;
+    padding-top: 50px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.grupp4 {
+    background:white;
+    padding-top: 50px;
+    padding-bottom: 150px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.grupp2 .card {
+    width: 500px;
+}
+
+.img-fluid {
+    width: 200px;
+    margin: auto;
+}
+.otstup {
+    justify-content:center;
+    display: flex;
+}
+
+.card-img-top {
+    margin: auto; 
+    width: 150px;
+    height: auto;
+}
+.img-fluid {    
+    width: 160px;
+    height: auto;
+}
+.card:hover {
+    transition: all 300ms;
+    border: 1px solid #DDD0A4;
+    box-shadow: none;
+    transform: translate(0, -5%);
+}
+.text1 {
+    padding-top: 20px;
+}
+.text2 {
+    padding-top: 40px;
+}
+.text3 {
+    padding-top: 20px;
+}
+
+.card-title {
+    margin-top: 10px;
+    font-size: 35px;
+    text-align: center
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.doun { 
+    padding-top:10px;
+    padding-right: 145px;
+}
+.boun {
+    padding-right: 120px;
+}
+.voun { 
+    padding-left: 5px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+}
+
+.apl {
+    height: 450px;
+}
+.btn {
+    font-size: 17px;
+    width: 165px;
+    height: min-content;
+    background:rgb(255, 255, 255);
+    color: #0D1C41;
+    border-color: #0D1C41;
+}
+.btn:hover {
+    color: #A89060;
+    background: white;
+    border-color: #A89060
+}
+.logo {
+    width: 35px;
+    height: auto;
+}
+.card-img-top {
+    padding-top: 15px;
+}
+.col {
+    width: 225px;
+    height: auto;
+}
+
+.lo {
+    flex-direction: column;
+}
+   
+.po {
+    border: none;
+    box-shadow: none;
+}
+.grupp3 .card:hover{
+    border: none;
+    box-shadow: none;
+    transform: translate(0,0);
+}
+
+.go {
+    white-space: nowrap;
+} 
+.grupp3 .card {
+    width: 300px;
+    padding: 35px;
+}
+
+.ri {
+    display: flex;
+}
+.rip{
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+    padding-left: 80px;
+}
+.vid {
+    color: #0D1C41;
+    text-align: center;
+    background:white;
+    padding-top: 100px;
+    width: 90%;
+    margin: 0 auto;
+}
+.vid h2 {
+    margin: 0;
+}
+.rir {
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+    padding-right: 80px;
+}
+.egor { 
+    width: 250px;
+    height: 70px;
+}
+.pht {
+    padding-top: 60px;
+}
+.phn {
+    padding-top: 53px;
+    width: 130px;
+    height: auto;
+}
+.op {
+    white-space: nowrap;
+}
+
+.pod {
+    display: flex;
+    color: #ffffff;
+    text-align: center;
+    background:#4A607A;
+    padding-top: 82px;
+    width: 90%;
+    margin: 0 auto;
+    font-size:40px;
+    height: 400px;
+    justify-content: space-around;
+}
+
+.tuk {
+    text-align: left;
+    font-size: 14px;
+}
+.oil {
+    text-align: left;
+    font-size: 14px;
+}
+.join {
+    text-align: left;
+    font-size: 14px;
+    color: #939CA6;
+    width: 250px;
+}
+.yop {
+    margin-top:40px;
+}
+.pod a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.pod a:hover {
+    color: #DDD0A4;
+}
+.vorg {
+    text-align: left;
+    font-size: 14px;
+    color: #939CA6;
+}
+.laf { 
+    color: #fff;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.first {
+    padding-right: 160px;
+}
+.second {
+    padding-right: 160px;
+}
+.orin {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}

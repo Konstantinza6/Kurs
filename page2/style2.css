@@ -1,0 +1,97 @@
+body {
+    background: #e9e9e9;
+}
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+.logo {
+    width: 35px;
+    height: auto;
+}
+
+.celi  {
+    padding-top: 50px;
+    color: #0D1C41;
+    text-align: center;
+    background:white;
+    width: 90%;
+    margin: 0 auto;
+    font-size:40px;
+    padding-bottom: 30px;
+}
+.polik {
+    display: flex;
+    color: #0D1C41;
+    background:white;
+    width: 90%;
+    margin: 0 auto;
+    font-size:22px;
+    text-align: left;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
+.tu p {
+    width: 500px;
+    height: 200px;
+}
+.text1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.polik p {
+    text-align: center;
+    width: 200px;
+    background:rgb(255, 255, 255);
+    color: #0D1C41;
+}
+.pod {
+    display: flex;
+    color: #ffffff;
+    text-align: center;
+    background:#4A607A;
+    padding-top: 40px;
+    width: 90%;
+    margin: 0 auto;
+    font-size:40px;
+    height: 100%;
+    justify-content: space-around;
+}
+.pod a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.tuk {
+    text-align: left;
+    font-size: 14px;
+}
+.oil {
+    text-align: left;
+    font-size: 14px;
+}
+.join {
+    text-align: left;
+    font-size: 14px;
+    color: #939CA6;
+    width: 250px;
+}
+.yop {
+    margin-top:40px;
+}
+.vorg {
+    text-align: left;
+    font-size: 14px;
+    color: #939CA6;
+}
+.laf { 
+    color: #fff;
+    font-size: 18px;
+    margin-top: 30px;
+}
